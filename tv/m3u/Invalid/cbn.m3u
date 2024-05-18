@@ -135,7 +135,7 @@ https://pi.0472.org/cbn/sanshaSD.m3u8
 https://pi.0472.org/cbn/qinghaiSD.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 https://pi.0472.org/cbn/tianqiSD.m3u8
-#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="北京",纪实科教
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",纪实科教
 https://pi.0472.org/cbn/bjayjsSD.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育
 https://pi.0472.org/cbn/sdjiaoyuSD.m3u8
